@@ -62,9 +62,6 @@ Through this project, I learned:
 
 ## Live Demo
 
-Add your Netlify deployment URL here.
-
-Example:
 https://exquisite-rabanadas-e3d553.netlify.app/
 
 ## GitHub Repository
